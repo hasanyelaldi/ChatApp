@@ -1,0 +1,9 @@
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll.config
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.pdb
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.xml
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb

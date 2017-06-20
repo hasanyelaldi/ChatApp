@@ -1,0 +1,30 @@
+﻿@model ChatApp.Model.Core.User
+
+@{
+    ViewBag.Title = "Giriş Yap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Üye girişi</h3>
+    </div>
+    <div class="panel-body">
+        <p class="lead">
+            Lütfen giriş bilgilerinizi yazınız
+        </p>
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            <div class="form-group">
+                <label>Kullanıcı adı :</label>
+                @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Şifre :</label>
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+            <input type="submit" value="Giriş yap" class="btn btn-primary" />
+        }
+    </div>
+</div>

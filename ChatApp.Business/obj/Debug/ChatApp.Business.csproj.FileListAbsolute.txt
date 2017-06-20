@@ -1,0 +1,13 @@
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.csprojResolveAssemblyReference.cache
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.dll.config
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.pdb
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.pdb
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.dll.config
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.xml
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.dll
+c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.pdb

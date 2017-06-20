@@ -1,0 +1,75 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+
+    <link href="~/Content/chat.css" rel="stylesheet" />
+</head>
+<body>
+    @{
+        var userName = HttpContext.Current.User.Identity.Name;
+        if (userName != "")
+        {
+            <input type="hidden" id="unSession" data-value="@HttpContext.Current.User.Identity.Name" />
+        }
+
+        var image = @Session["Image"];
+        if (image != null)
+            <input type="hidden" id="uiSession" data-value=" @Session["Image"]" />
+
+        var time = "(" + DateTime.Now.ToString("HH:mm") + ")";
+        if (time != null)
+        {
+            <input type="hidden" id="mtSession" data-value="@time" />
+        }
+
+    }
+
+    <div class="menu">
+        <div class="name">ChatApp</div>
+    </div>
+    <ol class="chat">
+        <li class="other">
+            <div id="messages">
+            </div>
+        </li>
+    </ol>
+
+    <div>
+        <div class="emojis form-group">
+            <input type="text" id="txtMessage" placeholder="Buraya Yaz !">
+            <input type="button" id="btnSendMessage" class="btn btn-success" value="Mesaj Yolla">
+        </div>
+    </div>
+
+</body>
+</html>
+<script>
+    $(function () {
+        var chat = $.connection.chatHub;
+        var $username = $("#unSession").data('value');
+        var $userimage = $("#uiSession").data('value');
+        var $messagetime = $("#mtSession").data('value');
+        var $message = $('#txtMessage');
+        var $messages = $('#messages');
+        $message.focus();
+        chat.client.sendMessage = function (name, message, image , time) {
+            $messages.append('<div class="avatar"><img src="' + image + '" draggable="false" /></div>');
+            $messages.append('<div class="msg"><p><strong>' + name + '&nbsp&nbsp<time>' + time +'</time >' +'</strong></p><p>' + message + '</p></div>');
+
+        };
+        $.connection.hub.start().done(function () {
+            $('#btnSendMessage').click(function () {
+
+                chat.server.send($username, $message.val(), $userimage, $messagetime);
+
+                $message.val('').focus();
+            });
+        });
+    });
+</script>
