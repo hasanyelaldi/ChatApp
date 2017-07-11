@@ -26,3 +26,13 @@ C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFr
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.csprojResolveAssemblyReference.cache
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll.config
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.pdb
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.xml
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.csprojResolveAssemblyReference.cache
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb

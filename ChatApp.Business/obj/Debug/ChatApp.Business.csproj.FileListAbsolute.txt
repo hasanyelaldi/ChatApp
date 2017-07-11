@@ -37,3 +37,16 @@ C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Debug\Entit
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.csprojResolveAssemblyReference.cache
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.dll
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.pdb
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.dll.config
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Business.pdb
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.pdb
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\ChatApp.Model.dll.config
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.dll
+C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Business\obj\Debug\ChatApp.Business.pdb
