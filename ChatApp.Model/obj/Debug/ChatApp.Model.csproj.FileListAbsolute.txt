@@ -7,3 +7,12 @@ c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\De
 c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
 c:\users\elit\documents\visual studio 2017\Projects\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll.config
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.pdb
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.dll
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.xml
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb

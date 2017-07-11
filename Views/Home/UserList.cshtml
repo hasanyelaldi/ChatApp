@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ChatApp.Model.Core.User>
+
+@{
+    ViewBag.Title = "Kullanıcılar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <br>
+    @using (Html.BeginForm())
+    {
+        @Html.TextBox("searchString")
+        <button type="submit" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-search"></span>&nbsp; Ara</button>
+
+        <button type="button" class="btn btn-primary btn-sm pull-right" onclick="window.location.href = '@Url.Action("UserCreate", "Home")';">
+            <span class="glyphicon glyphicon-plus"></span> &nbsp;Yeni Kullanıcı
+        </button>
+    }
+</div>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsAdmin)
+        </th>
+    </tr>
+    @Html.Hidden("item-to-delete", "", new { @id = "item-to-delete" })
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.Image)" height="100" width="90" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAdmin)
+            </td>
+            
+            <td>
+
+                <button type="button" class="btn btn-primary btn-sm pull-right" onclick="window.location.href = '@Url.Action("UserEdit", "Home", new { id = item.Id})';">
+                    <span class="glyphicon glyphicon-pencil"></span> &nbsp;Düzenle
+                </button>
+
+                @using (Html.BeginForm("UserDelete", "Home"))
+                {
+                    @Html.Hidden("Id", item.Id)
+                    <button type="submit" class="btn btn-danger btn-sm pull-right" onclick="return confirm('Silmek istediğinize emin misiniz?');">
+                        <span class="glyphicon glyphicon-remove"></span> &nbsp;Sil
+                    </button>
+                }
+
+            </td>
+        </tr>
+    }
+</table>
