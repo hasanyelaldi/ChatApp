@@ -41,10 +41,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/11/2017 09:42:26</publishTime>
     </File>
     <File Include="bin/ChatApp.WebUI.dll">
-      <publishTime>07/11/2017 09:42:36</publishTime>
+      <publishTime>07/11/2017 10:28:16</publishTime>
     </File>
     <File Include="bin/ChatApp.WebUI.pdb">
-      <publishTime>07/11/2017 09:42:36</publishTime>
+      <publishTime>07/11/2017 10:28:16</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>07/10/2017 17:22:58</publishTime>
