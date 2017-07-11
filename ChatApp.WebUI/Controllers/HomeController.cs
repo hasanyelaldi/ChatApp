@@ -171,5 +171,4 @@ namespace ChatApp.WebUI.Controllers
 		
         #endregion
     }
-    //hasan123
 }
