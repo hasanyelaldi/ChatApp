@@ -271,6 +271,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/Site.css">
       <publishTime>07/11/2017 10:38:55</publishTime>
     </File>
+    <File Include="Controllers/HomeController.cs">
+      <publishTime>07/11/2017 10:55:12</publishTime>
+    </File>
     <File Include="favicon.ico">
       <publishTime>07/11/2017 10:38:57</publishTime>
     </File>
