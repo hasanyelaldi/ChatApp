@@ -11,3 +11,16 @@ C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Business\bin\Release\Entity
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.csprojResolveAssemblyReference.cache
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.dll
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.pdb
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Business.dll.config
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Business.dll
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Business.pdb
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Model.dll
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\EntityFramework.dll
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Model.pdb
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\ChatApp.Model.dll.config
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\EntityFramework.xml
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.dll
+C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Business\obj\Release\ChatApp.Business.pdb
