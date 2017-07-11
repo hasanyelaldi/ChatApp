@@ -36,3 +36,4 @@ C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.S
 C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.csprojResolveAssemblyReference.cache
 C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
 C:\Users\elit\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb
+C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.csprojResolveAssemblyReference.cache
