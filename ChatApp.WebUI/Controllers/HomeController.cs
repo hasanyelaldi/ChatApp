@@ -171,6 +171,4 @@ namespace ChatApp.WebUI.Controllers
 		
         #endregion
     }
-    //cem hasan deneme
-
 }
