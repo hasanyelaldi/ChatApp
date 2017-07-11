@@ -171,4 +171,6 @@ namespace ChatApp.WebUI.Controllers
 		
         #endregion
     }
+
+   //tertemiz
 }
