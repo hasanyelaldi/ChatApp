@@ -36,7 +36,6 @@ namespace ChatApp.WebUI.Controllers
         {
             return View();
         }
-
         #region ----- User -----
 
         public ActionResult UserList(string searchString = null)
