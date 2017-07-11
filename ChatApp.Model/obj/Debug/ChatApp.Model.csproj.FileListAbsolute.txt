@@ -16,7 +16,6 @@ C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFrame
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.dll
 C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.pdb
-C:\Users\Pratixmart\Documents\GitHub\ChatApp\ChatApp.Model\obj\Debug\ChatApp.Model.csprojResolveAssemblyReference.cache
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll.config
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.dll
 C:\Users\yahya\OneDrive\Belgeler\GitHub\ChatApp\ChatApp.Model\bin\Debug\ChatApp.Model.pdb
